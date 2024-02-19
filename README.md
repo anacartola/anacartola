@@ -1,7 +1,12 @@
-# Ana Carolina Lessa, A. Cartola
+![worklair](https://github.com/anacartola/anacartola/assets/136506553/80480723-1ec4-4f62-a49e-88bd709e6c57)
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
+Hi, **i´m Ana Carolina Lessa**, most know as **A. Cartola** (a pun in portuguese with my name and capacity to pull something out of the hat everytime).
+I am a data nerd, specialized on workin in Data Analytics and Data Science fields.
+
+My degree is on Data Matters (Data Science, Big Data & BI) by FIAP, were i get by being the top of my class on scholarships.
+
+# Get to know me more down below:
 
 ## Skills
 
@@ -34,7 +39,4 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
-
-### Stats
+### curiosities about me
