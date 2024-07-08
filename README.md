@@ -19,6 +19,4 @@ Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=f
 Dataviz | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 Virtualization, Containers and Orchestration | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### curiosities about me
-
    </div>
