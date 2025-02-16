@@ -2,10 +2,9 @@
 
 
 Hi, **i´m Ana Carolina Lessa**, most know as **A. Cartola** (a pun with my name and capacity to pull something out of the hat everytime).
-I am a data nerd, specialized on workin in Data Analytics and Data Science fields.
+I am a data nerd, specialized on working in Data Analytics and Data Science fields.
 
-My degree is on **Data Matters (Data Science, Big Data & BI)** by FIAP, which i´ve gained two firt places on awards by Microsoft and Stellantis. I also have a background degree on **Advertising and Marketing**.
-
+I hold a degree in **Data Matters (Data Science, Big Data & BI) from FIAP**, where I earned **two first-place awards from Microsoft and Stellantis**. Additionally, I have a background in **Advertising and Marketing**.
 <h1 align="center">🎩 Get to know me more down below:</h1>
 <div align="center">
  
