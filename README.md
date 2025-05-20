@@ -1,11 +1,13 @@
 ![worklair](https://github.com/anacartola/anacartola/assets/136506553/80480723-1ec4-4f62-a49e-88bd709e6c57)
 
 
-Hi, **i´m Ana Carolina Lessa**, most know as **A. Cartola** (a pun with my name and capacity to pull something out of the hat everytime).
-I am a data nerd, specialized on working in Data Analytics and Data Science fields.
+Hi, **i´m Ana Carolina Lessa**, most know as **A. Cartola** (a playful nod to my name and my habit of pulling off data magic out of a hat just when it's needed most) 🎩
 
-I hold a degree in **Data Matters (Data Science, Big Data & BI) from FIAP**, where I earned **two first-place awards from Microsoft and Stellantis**. Additionally, I have a background in **Advertising and Marketing**.
-<h1 align="center">🎩 Get to know me more down below:</h1>
+I am a data nerd, specialized on working in Data Analytics Engineer and Customer Research fields.
+
+I hold a degree in **Data Matters (Data Science, Big Data & BI)** from **FIAP**, where I was honored with **two first-place awards — from Microsoft and Stellantis**. I also bring a rich b**ackground in Advertising & Marketing**, and **Customer Experience & Success**, making me uniquely equipped to connect data with real-world impact fomr companies all around the world. 🌎
+
+<h1 align="center">🎩 Get to know my tools:</h1>
 <div align="center">
  
 ***Skills*** | ***Knowledge***
