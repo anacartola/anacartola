@@ -3,9 +3,9 @@
 
 Hi, **i´m Ana Carolina Lessa**, most know as **A. Cartola** (a playful nod to my name and my habit of pulling off data magic out of a hat just when it's needed most) 🎩
 
-I am a data nerd, specialized on working in Data Analytics Engineer and Customer Research fields.
+I am a data nerd, uniquely equipped to connect data with real-world impact fomr companies all around the world. 🌎
 
-I hold a degree in **Data Matters (Data Science, Big Data & BI)** from **FIAP**, where I was honored with **two first-place awards — from Microsoft and Stellantis**. I also bring a rich b**ackground in Advertising & Marketing**, and **Customer Experience & Success**, making me uniquely equipped to connect data with real-world impact fomr companies all around the world. 🌎
+I hold a degree in **Data Matters (Data Science, Big Data & BI)** from **FIAP**, where I was honored with **two first-place awards — from Microsoft and Stellantis**. I also bring a rich b**ackground in Advertising & Marketing**, and **Customer Experience & Success*.
 
 <h1 align="center">🎩 Get to know my tools:</h1>
 <div align="center">
